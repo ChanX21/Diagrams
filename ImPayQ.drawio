@@ -10,11 +10,27 @@
         <mxCell id="ufjdyNfJG8r_4yDN5leQ-16" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;LocalHost:8080&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="390" width="180" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="ufjdyNfJG8r_4yDN5leQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HEuHjqax6HS9vuczRuY7-1" target="ufjdyNfJG8r_4yDN5leQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ufjdyNfJG8r_4yDN5leQ-23" value="View Balances" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ufjdyNfJG8r_4yDN5leQ-22">
+          <mxGeometry x="-0.1807" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HEuHjqax6HS9vuczRuY7-1" value="ImPayQ App&lt;div&gt;User&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;QR = USER address&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Aztec.js&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="140" width="120" height="190" as="geometry" />
+          <mxGeometry x="90" y="140" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ufjdyNfJG8r_4yDN5leQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HEuHjqax6HS9vuczRuY7-1" target="ufjdyNfJG8r_4yDN5leQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ufjdyNfJG8r_4yDN5leQ-19" value="AuthWitAction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ufjdyNfJG8r_4yDN5leQ-18">
+          <mxGeometry x="-0.2571" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4J6xsujd7ApWxE8mOuLf-1" value="ImPayQ App&lt;div&gt;Merchant&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Aztec.js&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="150" width="120" height="190" as="geometry" />
+          <mxGeometry x="590" y="130" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ufjdyNfJG8r_4yDN5leQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ufjdyNfJG8r_4yDN5leQ-3" target="ufjdyNfJG8r_4yDN5leQ-4">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +42,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ufjdyNfJG8r_4yDN5leQ-4" value="User Account" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="400" width="150" height="170" as="geometry" />
+          <mxGeometry x="320" y="380" width="150" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ufjdyNfJG8r_4yDN5leQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ufjdyNfJG8r_4yDN5leQ-7" target="ufjdyNfJG8r_4yDN5leQ-4">
           <mxGeometry relative="1" as="geometry" />
@@ -54,6 +70,14 @@
         <mxCell id="ufjdyNfJG8r_4yDN5leQ-14" value="Reward User" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ufjdyNfJG8r_4yDN5leQ-11">
           <mxGeometry x="0.0809" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ufjdyNfJG8r_4yDN5leQ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.983;entryY=0.195;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4J6xsujd7ApWxE8mOuLf-1" target="HEuHjqax6HS9vuczRuY7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ufjdyNfJG8r_4yDN5leQ-21" value="ScansQR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ufjdyNfJG8r_4yDN5leQ-20">
+          <mxGeometry x="-0.0482" y="4" relative="1" as="geometry">
+            <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
