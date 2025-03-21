@@ -75,7 +75,7 @@
         <mxCell id="ufjdyNfJG8r_4yDN5leQ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.983;entryY=0.195;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4J6xsujd7ApWxE8mOuLf-1" target="HEuHjqax6HS9vuczRuY7-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ufjdyNfJG8r_4yDN5leQ-21" value="ScansQR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ufjdyNfJG8r_4yDN5leQ-20">
+        <mxCell id="ufjdyNfJG8r_4yDN5leQ-21" value="ScansQR&lt;div&gt;with Address&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ufjdyNfJG8r_4yDN5leQ-20">
           <mxGeometry x="-0.0482" y="4" relative="1" as="geometry">
             <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
