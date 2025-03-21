@@ -89,6 +89,9 @@
         <mxCell id="ufjdyNfJG8r_4yDN5leQ-26" value="ImPayQ Architecture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=42;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-150" y="60" width="420" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ufjdyNfJG8r_4yDN5leQ-27" value="&lt;span style=&quot;&quot;&gt;Possible&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;zkMail?&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#FFD966);" vertex="1" parent="1">
+          <mxGeometry x="410" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
