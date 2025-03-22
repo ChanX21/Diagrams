@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="26.1.1">
   <diagram name="Architecture" id="3_mQw_ArMDM8NdCvHybq">
-    <mxGraphModel dx="2057" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1866" dy="856" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,13 +18,27 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ufjdyNfJG8r_4yDN5leQ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="HEuHjqax6HS9vuczRuY7-1" target="ufjdyNfJG8r_4yDN5leQ-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-54.57142857142844" y="269.7142857142858" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4" y="282" />
+              <mxPoint x="4" y="243" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ufjdyNfJG8r_4yDN5leQ-35" value="Sent Mail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ufjdyNfJG8r_4yDN5leQ-34">
+          <mxGeometry x="-0.2131" y="-3" relative="1" as="geometry">
+            <mxPoint x="29" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HEuHjqax6HS9vuczRuY7-1" value="ImPayQ App&lt;div&gt;User&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;QR = USER address&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Aztec.js&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="140" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="ufjdyNfJG8r_4yDN5leQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HEuHjqax6HS9vuczRuY7-1" target="ufjdyNfJG8r_4yDN5leQ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ufjdyNfJG8r_4yDN5leQ-19" value="AuthWitAction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ufjdyNfJG8r_4yDN5leQ-18">
+        <mxCell id="ufjdyNfJG8r_4yDN5leQ-19" value="AuthWitAction&lt;div&gt;Submit Proof&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ufjdyNfJG8r_4yDN5leQ-18">
           <mxGeometry x="-0.2571" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -59,7 +73,7 @@
         <mxCell id="ufjdyNfJG8r_4yDN5leQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.667;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HEuHjqax6HS9vuczRuY7-1" target="ufjdyNfJG8r_4yDN5leQ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ufjdyNfJG8r_4yDN5leQ-13" value="Pay Merchant" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ufjdyNfJG8r_4yDN5leQ-9">
+        <mxCell id="ufjdyNfJG8r_4yDN5leQ-13" value="Pay Merchant&lt;div&gt;With Stable Coins&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ufjdyNfJG8r_4yDN5leQ-9">
           <mxGeometry x="-0.215" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -90,7 +104,25 @@
           <mxGeometry x="-150" y="60" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ufjdyNfJG8r_4yDN5leQ-27" value="&lt;span style=&quot;&quot;&gt;Possible&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;zkMail?&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#FFD966);" vertex="1" parent="1">
-          <mxGeometry x="400" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="426" y="241" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ufjdyNfJG8r_4yDN5leQ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ufjdyNfJG8r_4yDN5leQ-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="198" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="4" y="243" />
+              <mxPoint x="4" y="198" />
+              <mxPoint x="90" y="198" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ufjdyNfJG8r_4yDN5leQ-31" value="Sign In" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ufjdyNfJG8r_4yDN5leQ-30">
+          <mxGeometry x="-0.2132" y="2" relative="1" as="geometry">
+            <mxPoint x="41" y="-26" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ufjdyNfJG8r_4yDN5leQ-29" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.authentication_google;" vertex="1" parent="1">
+          <mxGeometry x="-171" y="191" width="104" height="104" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
