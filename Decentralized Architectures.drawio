@@ -736,6 +736,11 @@
         <mxCell id="r2Q5RgwydoGRz8UeQarK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r2Q5RgwydoGRz8UeQarK-1" target="j9t9XFVl9p3zyzaxjL9Z-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="r2Q5RgwydoGRz8UeQarK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.711;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r2Q5RgwydoGRz8UeQarK-1" target="j9t9XFVl9p3zyzaxjL9Z-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="569.7142857142858" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="r2Q5RgwydoGRz8UeQarK-1" value="Backend Layer Reading of the quick confirmations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="200" width="360" height="60" as="geometry" />
         </mxCell>
