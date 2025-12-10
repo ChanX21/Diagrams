@@ -44,7 +44,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="56Q1RtmPxMjWdyQoB92q" name="Solver Network Design">
-    <mxGraphModel dx="1198" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,8 +193,8 @@
         <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-46" edge="1" parent="1" source="Ob_hqbTY6kX_VQ2Sf4Uc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.322;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" target="Ob_hqbTY6kX_VQ2Sf4Uc-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-55" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px; text-align: start; caret-color: oklch(0.9296 0.007 106.529999); color: oklch(0.9296 0.007 106.529999); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; font-weight: 375; letter-spacing: 0.16px; background-color: oklch(0.2167 0.002 197.039993);&quot;&gt;ERC-7683 Intent&lt;/span&gt;" vertex="1">
-          <mxGeometry height="90" width="150" x="520" y="80" as="geometry" />
+        <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-55" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px; text-align: start; caret-color: oklch(0.9296 0.007 106.529999); font-family: fkGroteskNeue, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;, &amp;quot;Hiragino Sans&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Apple SD Gothic Neo&amp;quot;, &amp;quot;Yu Gothic&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Microsoft JhengHei&amp;quot;, Meiryo; font-weight: 375; letter-spacing: 0.16px; background-color: oklch(0.2167 0.002 197.039993); color: rgb(0, 0, 0);&quot;&gt;ERC-7683 Intent&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="140" x="710" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
