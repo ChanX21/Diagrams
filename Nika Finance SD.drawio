@@ -89,6 +89,25 @@
         <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-12" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="FeeVault.sol" vertex="1">
           <mxGeometry height="130" width="100" x="375" y="-110" as="geometry" />
         </mxCell>
+        <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-17" edge="1" parent="1" source="Ob_hqbTY6kX_VQ2Sf4Uc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Ob_hqbTY6kX_VQ2Sf4Uc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-13" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="User" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="-60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-15" edge="1" parent="1" source="Ob_hqbTY6kX_VQ2Sf4Uc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-16" connectable="0" parent="Ob_hqbTY6kX_VQ2Sf4Uc-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Protocol Fees" vertex="1">
+          <mxGeometry relative="1" x="0.2533" y="-1" as="geometry">
+            <mxPoint x="-14" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Nika Platform" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="-50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
