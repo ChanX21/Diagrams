@@ -289,6 +289,12 @@
         <mxCell id="DenvSvl1QyxP1UIWUCp3-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Proof Of Fill Via a Bridge" vertex="1">
           <mxGeometry height="30" width="60" x="840" y="470" as="geometry" />
         </mxCell>
+        <mxCell id="T0Tzh-dFMq3SfwOH8W21-2" edge="1" parent="1" source="T0Tzh-dFMq3SfwOH8W21-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="Ob_hqbTY6kX_VQ2Sf4Uc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T0Tzh-dFMq3SfwOH8W21-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Chain Token Threshold&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="110" x="790" y="-185" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
