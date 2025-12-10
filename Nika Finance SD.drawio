@@ -78,7 +78,7 @@
         <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="230" y="90" as="sourcePoint" />
-            <mxPoint x="470" y="90" as="targetPoint" />
+            <mxPoint x="590" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-10" connectable="0" parent="Ob_hqbTY6kX_VQ2Sf4Uc-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Origin Chain" vertex="1">
@@ -102,7 +102,15 @@
         </mxCell>
         <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-16" connectable="0" parent="Ob_hqbTY6kX_VQ2Sf4Uc-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Protocol Fees" vertex="1">
           <mxGeometry relative="1" x="0.2533" y="-1" as="geometry">
-            <mxPoint x="-14" y="-11" as="offset" />
+            <mxPoint x="-14" y="-221" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-35" edge="1" parent="1" source="Ob_hqbTY6kX_VQ2Sf4Uc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Ob_hqbTY6kX_VQ2Sf4Uc-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="-20" />
+              <mxPoint x="310" y="-245" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Nika Platform" vertex="1">
@@ -137,6 +145,47 @@
         </mxCell>
         <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EVM Chain" vertex="1">
           <mxGeometry height="30" width="60" x="380" y="-160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-33" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="FeeVault.rs" vertex="1">
+          <mxGeometry height="130" width="100" x="375" y="-310" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Solana" vertex="1">
+          <mxGeometry height="30" width="60" x="380" y="-360" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-36" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Protocol Fees" vertex="1">
+          <mxGeometry x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-40" edge="1" parent="1" source="Ob_hqbTY6kX_VQ2Sf4Uc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;curved=0;" target="Ob_hqbTY6kX_VQ2Sf4Uc-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="-240" as="sourcePoint" />
+            <mxPoint x="550" y="-287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-41" edge="1" parent="1" source="Ob_hqbTY6kX_VQ2Sf4Uc-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=0;" value="If Threshold reached&lt;div&gt;&amp;nbsp;then create Intent&lt;/div&gt;">
+          <mxGeometry relative="1" x="-0.0981" y="-26" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="475" y="-255" />
+              <mxPoint x="605" y="-255" />
+              <mxPoint x="605" y="-216" />
+            </Array>
+            <mxPoint x="550" y="-255" as="sourcePoint" />
+            <mxPoint x="710" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-42" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Check for fee accumulation Threshold" vertex="1">
+          <mxGeometry x="675" y="-300" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-43" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;strokeWidth=5;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="615.72" y="90" as="sourcePoint" />
+            <mxPoint x="975.72" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-44" connectable="0" parent="Ob_hqbTY6kX_VQ2Sf4Uc-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Offchain" vertex="1">
+          <mxGeometry relative="1" x="0.3167" y="-2" as="geometry">
+            <mxPoint x="-38" y="-22" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
