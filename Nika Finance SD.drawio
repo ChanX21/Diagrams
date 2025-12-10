@@ -44,7 +44,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="56Q1RtmPxMjWdyQoB92q" name="Solver Network Design">
-    <mxGraphModel dx="1018" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,6 +85,9 @@
           <mxGeometry relative="1" x="0.3167" y="-2" as="geometry">
             <mxPoint x="-38" y="-22" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-12" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="FeeVault.sol" vertex="1">
+          <mxGeometry height="130" width="100" x="375" y="-110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
