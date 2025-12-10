@@ -62,12 +62,12 @@
         </mxCell>
         <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-4" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="150" y="530" as="sourcePoint" />
-            <mxPoint x="1000" y="530" as="targetPoint" />
+            <mxPoint x="150" y="600" as="sourcePoint" />
+            <mxPoint x="1000" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Layer A - Origin Layer&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="90" x="70" y="100" as="geometry" />
+          <mxGeometry height="30" width="90" x="50" y="100" as="geometry" />
         </mxCell>
         <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Layer B MarketLayer" vertex="1">
           <mxGeometry height="30" width="60" x="70" y="200" as="geometry" />
@@ -83,7 +83,7 @@
         </mxCell>
         <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-10" connectable="0" parent="Ob_hqbTY6kX_VQ2Sf4Uc-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Origin Chain" vertex="1">
           <mxGeometry relative="1" x="0.3167" y="-2" as="geometry">
-            <mxPoint x="-38" y="-22" as="offset" />
+            <mxPoint x="-91" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ob_hqbTY6kX_VQ2Sf4Uc-12" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="FeeVault.sol" vertex="1">
@@ -208,6 +208,14 @@
             <mxPoint x="990" y="-420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DenvSvl1QyxP1UIWUCp3-15" edge="1" parent="1" source="DenvSvl1QyxP1UIWUCp3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DenvSvl1QyxP1UIWUCp3-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="390" />
+              <mxPoint x="685" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DenvSvl1QyxP1UIWUCp3-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Solver Network" vertex="1">
           <mxGeometry height="60" width="30" x="520" y="260" as="geometry" />
         </mxCell>
@@ -222,6 +230,42 @@
             <mxPoint x="670" y="-270" as="sourcePoint" />
             <mxPoint x="720" y="-320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DenvSvl1QyxP1UIWUCp3-7" edge="1" parent="1" source="Ob_hqbTY6kX_VQ2Sf4Uc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" target="DenvSvl1QyxP1UIWUCp3-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="110" />
+              <mxPoint x="542" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DenvSvl1QyxP1UIWUCp3-8" connectable="0" parent="DenvSvl1QyxP1UIWUCp3-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Transfers Fees" vertex="1">
+          <mxGeometry relative="1" x="-0.1814" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DenvSvl1QyxP1UIWUCp3-9" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" value="Treasury.sol" vertex="1">
+          <mxGeometry height="130" width="100" x="350" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="DenvSvl1QyxP1UIWUCp3-11" parent="DenvSvl1QyxP1UIWUCp3-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MultiSig Vault" vertex="1">
+          <mxGeometry height="30" width="60" x="15" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DenvSvl1QyxP1UIWUCp3-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" value="Affiliate.sol" vertex="1">
+          <mxGeometry height="130" width="150" x="610" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="DenvSvl1QyxP1UIWUCp3-12" parent="DenvSvl1QyxP1UIWUCp3-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Merkle Claim Contract" vertex="1">
+          <mxGeometry height="30" width="60" x="35" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DenvSvl1QyxP1UIWUCp3-13" edge="1" parent="1" source="DenvSvl1QyxP1UIWUCp3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.591;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" target="DenvSvl1QyxP1UIWUCp3-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="390" />
+              <mxPoint x="409" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DenvSvl1QyxP1UIWUCp3-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Depending on the intent" vertex="1">
+          <mxGeometry height="30" width="95" x="535" y="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
