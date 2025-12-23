@@ -291,7 +291,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="v1" id="9wJFURIUE_x9ebAiCMTY">
-    <mxGraphModel dx="1198" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1454" dy="1907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="1EYqN2zeHQ0ABUtsTmmC-0" />
         <mxCell id="1EYqN2zeHQ0ABUtsTmmC-1" parent="1EYqN2zeHQ0ABUtsTmmC-0" />
@@ -537,6 +537,9 @@
         </mxCell>
         <mxCell id="1EYqN2zeHQ0ABUtsTmmC-66" parent="1EYqN2zeHQ0ABUtsTmmC-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="If EVM chain&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="95" x="582.5" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4YDlZfo5Zi_04BhafLwA-0" parent="1EYqN2zeHQ0ABUtsTmmC-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=36;fontStyle=1" value="V1&lt;div&gt;Launch Mode /&amp;nbsp;&lt;/div&gt;&lt;div&gt;Less Operational &amp;nbsp;Risk&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="370" x="20" y="-410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -836,6 +839,9 @@
         </mxCell>
         <mxCell id="Tq9nPsQ9ddBH4ox5S8OW-0" parent="6g3Lpg3NG2KjypTZf8Cy-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Decentralized Price feed" vertex="1">
           <mxGeometry height="80" width="110" x="1050" y="-75.78" as="geometry" />
+        </mxCell>
+        <mxCell id="TkQt4Gw9UaPncZ0nsLUj-0" parent="6g3Lpg3NG2KjypTZf8Cy-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=36;fontStyle=1" value="V2&lt;div&gt;Sovereign Mode /&amp;nbsp;&lt;/div&gt;&lt;div&gt;More Decentralized&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="370" x="40" y="-450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
