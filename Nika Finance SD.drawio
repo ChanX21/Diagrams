@@ -385,7 +385,7 @@
           <mxGeometry x="830" y="-60" as="geometry" />
         </mxCell>
         <mxCell id="1EYqN2zeHQ0ABUtsTmmC-24" parent="1EYqN2zeHQ0ABUtsTmmC-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="EVM Chain" vertex="1">
-          <mxGeometry height="30" width="60" x="380" y="-160" as="geometry" />
+          <mxGeometry height="30" width="60" x="390" y="-170" as="geometry" />
         </mxCell>
         <mxCell id="1EYqN2zeHQ0ABUtsTmmC-25" parent="1EYqN2zeHQ0ABUtsTmmC-1" style="swimlane;whiteSpace=wrap;html=1;" value="FeeVault.rs" vertex="1">
           <mxGeometry height="130" width="100" x="375" y="-310" as="geometry" />
