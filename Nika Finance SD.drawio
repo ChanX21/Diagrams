@@ -542,7 +542,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="v2" id="b8JUss2us2MeJopxN1Xd">
-    <mxGraphModel dx="2036" dy="2230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1357" dy="1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="6g3Lpg3NG2KjypTZf8Cy-0" />
         <mxCell id="6g3Lpg3NG2KjypTZf8Cy-1" parent="6g3Lpg3NG2KjypTZf8Cy-0" />
@@ -833,6 +833,9 @@
         </mxCell>
         <mxCell id="6g3Lpg3NG2KjypTZf8Cy-66" parent="6g3Lpg3NG2KjypTZf8Cy-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="If EVM chain&amp;nbsp;" vertex="1">
           <mxGeometry height="30" width="95" x="582.5" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Tq9nPsQ9ddBH4ox5S8OW-0" parent="6g3Lpg3NG2KjypTZf8Cy-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Decentralized Price feed" vertex="1">
+          <mxGeometry height="80" width="110" x="1050" y="-75.78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
