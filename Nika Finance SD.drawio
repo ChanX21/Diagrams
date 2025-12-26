@@ -470,6 +470,11 @@
         <mxCell id="1EYqN2zeHQ0ABUtsTmmC-47" parent="1EYqN2zeHQ0ABUtsTmmC-46" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MultiSig Vault" vertex="1">
           <mxGeometry height="30" width="60" x="15" y="60" as="geometry" />
         </mxCell>
+        <mxCell id="-Tnfn1mm26KCMmQVFABp-0" edge="1" parent="1EYqN2zeHQ0ABUtsTmmC-1" source="1EYqN2zeHQ0ABUtsTmmC-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="514.4285714285716" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1EYqN2zeHQ0ABUtsTmmC-48" parent="1EYqN2zeHQ0ABUtsTmmC-1" style="swimlane;whiteSpace=wrap;html=1;startSize=20;" value="Affiliate.sol" vertex="1">
           <mxGeometry height="130" width="150" x="610" y="450" as="geometry" />
         </mxCell>
@@ -540,6 +545,9 @@
         </mxCell>
         <mxCell id="4YDlZfo5Zi_04BhafLwA-0" parent="1EYqN2zeHQ0ABUtsTmmC-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=36;fontStyle=1" value="V1&lt;div&gt;Launch Mode /&amp;nbsp;&lt;/div&gt;&lt;div&gt;Less Operational &amp;nbsp;Risk&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="370" x="20" y="-410" as="geometry" />
+        </mxCell>
+        <mxCell id="-Tnfn1mm26KCMmQVFABp-3" parent="1EYqN2zeHQ0ABUtsTmmC-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="event( fill proof )" vertex="1">
+          <mxGeometry height="30" width="60" x="780" y="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
